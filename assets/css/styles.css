@@ -92,6 +92,21 @@ ul {
   font-weight: 300;
 }
 
+.btn-lg.btn-info {
+  background-color: #62BEE2;
+  border-color: #62BEE2;
+  margin: 3px;
+  font-size: 15px;
+  width: 160px;
+}
+
+.btn-lg.btn-info:hover,
+.btn.btn-light:hover {
+  background-color: #ED69A6;
+  border-color: #ED69A6;
+  color: white;
+}
+
 .contact-h3 {
   width: 60%;
   margin: auto;
@@ -294,7 +309,7 @@ ul {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #66BFBF;
+  background: #C6F8F0;
   z-index: 1000;
 }
 
