@@ -171,7 +171,7 @@ ul {
 }
 
 .profile, .portfolio {
-  background-image: url('../images/stripes.jpg');
+  background: url('images/stripes.jpg');
   background-repeat: repeat;
   height: 100%;
   padding-top: 120px;
@@ -179,7 +179,7 @@ ul {
 }
 
 .skills-list {
-  background-image: url('../images/round.png');
+  background: url('images/round.png');
   background-repeat: repeat;
   height: 100%;
   padding-top: 120px;
@@ -194,7 +194,7 @@ ul {
 
 @font-face {
     font-family: 'DietDidot Title Italic';
-    src: url('../fonts/DietDidot Title Italic.otf') format('opentype');
+    src: url('fonts/DietDidot Title Italic.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
